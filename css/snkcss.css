@@ -1,3 +1,97 @@
+@import url('https://fonts.googleapis.com/css2?family=Nanum+Gothic&display=swap');
+
 body{
 	background-color: darkgrey;
+	font-family: 'Nanum Gothic', sans-serif;
+	margin: 0;
+	padding: 0;
 }
+
+.banner{
+	background-color: royalblue;
+	height: 57vh;
+	padding: 50px 20px;
+	box-sizing: border-box;
+}
+
+.wrapper{
+
+}
+
+.banner h5{
+	margin: 0 0 20px;
+}
+
+.attackontitan{
+	background: url(../img/snk.jpeg) no-repeat 0 0;
+	background-size: 100%;
+	width: 600px;
+	height: 150px;
+}
+
+.banner h3{
+	padding-bottom: 30px;
+	position: relative;
+}
+
+.banner a{
+
+}
+
+a.cta-alt {
+	color: whitesmoke ;
+	text-decoration: none;
+	background-color: dimgrey;
+	padding: 20px;
+	margin:  30px 0 10px;
+	border: 1px solid black;
+	border-radius: 10px;
+	box-shadow: 0 0 10px dimgrey;
+
+}
+
+.eren{
+	background: url(../img/eren.png) no-repeat 0 0;
+	background-size: 100%;
+	width: 100px;
+	height: 200px;
+	position:  absolute;
+}
+
+.mikasa{
+	background: url(../img/mikasa.jfif) no-repeat 0 0;
+	background-size: 100%;
+	width: 100px;
+	height: 300px;
+	position:  absolute;
+}
+
+.armin{
+	background: url(../img/armin.jpeg) no-repeat 0 0;
+	background-size: 100%;
+	width: 100px;
+	height: 100px;
+	position: absolute;
+}
+/*<div class="banner">
+		<div class="wrapper">
+			<h5>Eren from the Scouts Regiment presents</h5>
+			<a href="#info" class="cta-alt">Read More</a>
+		</div>
+	</div>
+	<div class="eren"></div>
+	<div class="mikasa"></div>
+	<div class="armin"></div>
+/*
+
+
+
+
+
+
+
+
+
+
+
+
